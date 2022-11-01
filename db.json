@@ -1,0 +1,123 @@
+{
+  "food":[
+      {
+          "id": 1,
+          "name": "Mediterranean  Salad",
+          "info": "spicey with garlic and then deep fried to crispy perfection",
+          "price": 24,
+          "img": "https://m.media-amazon.com/images/I/71oR9w5AjbL._SL1160_.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Summer Asian Slaw",
+          "info": "spicey with garlic and then deep fried to crispy perfection",
+          "price": 24,
+          "img": "https://media.timeout.com/images/105157202/image.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Burger",
+          "info": "spicey with garlic and then deep fried to crispy perfection",
+          "price": 24,
+          "img": "https://www.amazingclubs.ca/img/fruitgiftclub.jpg"
+        },
+        {
+          "id": 4,
+          "name": "white sauce pasta",
+          "info": "spicey with garlic and then deep fried to crispy perfection",
+          "price": 24,
+          "img": "https://merryboosters.com/wp-content/uploads/2020/05/blog-featured-image.png"
+        },
+        {
+          "id": 5,
+          "name": "butterfly pasta",
+          "info": "spicey with garlic and then deep fried to crispy perfection",
+          "price": 24,
+          "img": "https://images.unsplash.com/photo-1582722872445-44dc5f7e3c8f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZWdnfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+        },
+        {
+          "id": 6,
+          "name": "tooty fruity bowl",
+          "info": "spicey with garlic and then deep fried to crispy perfection",
+          "price": 24,
+          "img": "https://a.ftscrt.com/static/images/food_groups/fast_food.jpg"
+        },
+        {
+          "id": 7,
+          "name": "granola cereal bowl",
+          "info": "spicey with garlic and then deep fried to crispy perfection",
+          "price": 24,
+          "img": "https://a.ftscrt.com/static/images/food_groups/fish.jpg"
+        },
+        {
+          "id": 8,
+          "name": "palm bowl",
+          "info": "spicey with garlic and then deep fried to crispy perfection",
+          "price": 24,
+          "img": "https://a.ftscrt.com/static/images/food_groups/fruit.jpg"
+        },
+        {
+          "id": 9,
+          "name": "tigela smoothie",
+          "info": "spicey with garlic and then deep fried to crispy perfection",
+          "price": 24,
+          "img": "https://static.toiimg.com/thumb/msid-77320276/77320276.jpg?width=500&resizemode=4"
+        },
+        {
+          "id": 10,
+          "name": "breakfast cereal",
+          "info": "spicey with garlic and then deep fried to crispy perfection",
+          "price": 24,
+          "img": "https://a.ftscrt.com/static/images/food_groups/pasta_rice.jpg"
+        },
+        {
+          "id": 11,
+          "name": "cuisine of hawaii",
+          "info": "spicey with garlic and then deep fried to crispy perfection",
+          "price": 24,
+          "img": "https://a.ftscrt.com/static/images/food_groups/sauces.jpg"
+        },
+        {
+          "id": 12,
+          "name": "fried chicken",
+          "info": "spicey with garlic and then deep fried to crispy perfection",
+          "price": 24,
+          "img": "https://a.ftscrt.com/static/images/food_groups/snacks.jpg"
+        },
+        {
+          "id": 13,
+          "name": "greek salad",
+          "info": "spicey with garlic and then deep fried to crispy perfection",
+          "price": 24,
+          "img": "https://a.ftscrt.com/static/images/food_groups/soup.jpg"
+        },
+        {
+          "id": 14,
+          "name": "hamburger",
+          "info": "spicey with garlic and then deep fried to crispy perfection",
+          "price": 24,
+          "img":"https://a.ftscrt.com/static/images/food_groups/sweets_desserts.jpg"
+        },
+        {
+          "id": 15,
+          "name": "israeli salad",
+          "info": "spicey with garlic and then deep fried to crispy perfection",
+          "price": 24,
+          "img":"https://a.ftscrt.com/static/images/food_groups/vegetables.jpg"
+        },
+        {
+          "id": 16,
+          "name": "Pizza Pasta",
+          "info":"spicey with garlic and then deep fried to crispy perfection",
+          "price": 24,
+          "img":"https://static.toiimg.com/thumb/msid-77320276/77320276.jpg?width=500&resizemode=4"
+        },
+        {
+          "id": 17,
+          "name": "Pizza",
+          "info": "spicey with garlic and then deep fried to crispy perfection",
+          "price": 24,
+          "img": "https://www.helpguide.org/wp-content/uploads/calories-counting-diet-food-control-and-weight-loss-concept-calorie-768.jpg"
+        }
+  ]
+}
